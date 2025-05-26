@@ -1,3 +1,4 @@
+#This programs main focus is to show principle knowledge of the python progrmaming language.
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 print("https://github.com/IsaacLayton16")
 print("Program built by Isaac Layton")
